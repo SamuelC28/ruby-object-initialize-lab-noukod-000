@@ -14,7 +14,7 @@ class Person
     @job
   end
 end
-=======
+
   def person (person)
      @person = person
   end
@@ -26,4 +26,4 @@ end
 
 beyonce = Person.new
 beyonce.name = "Beyonce"
->>>>>>> 186cbe85fa047d3adbded7f5ee75f6fe41944785
+
